@@ -1,4 +1,4 @@
 branch-without-origin
 rebase-demo
 master
-error
+fix
